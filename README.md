@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm a Full Stack Web Developer with expertise in building<br> web applications using the MERN Stack<br> (MongoDB, Express, React, Node.js) and Laravel.
+I'm a Full Stack Web Developer with expertise in building web applications using Laravel and the MERN Stack (MongoDB, Express, React, Node.js).
+
+
 
 
 # 💻 Tech Stack:
